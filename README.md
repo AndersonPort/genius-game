@@ -14,4 +14,4 @@ Nesse [link](https://github.com/SpruceGabriela/genesis-dio) o repositório origi
 
 O projeto está publicado no GitHub Pages e poderá ser acessado [neste link]().
 
-Também poderá ser executado localmente, sendo necessário o downoload/clone do repositório e abir o arquivo index.html no navegador preferido.
+Também poderá ser executado localmente, sendo necessário o download/clone do repositório e abir o arquivo index.html no navegador preferido.
